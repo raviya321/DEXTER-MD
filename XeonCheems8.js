@@ -1,4 +1,4 @@
-require('./settings')
+ require('./settings')
 require('./lib/listmenu')
 const { modul } = require('./module')
 const { os, axios, baileys, chalk, cheerio, child_process, crypto, cookie, FormData, FileType, fetch, fs, fsx, ffmpeg, Jimp, jsobfus, PhoneNumber, process, moment, ms, speed, syntaxerror, util, ytdl, googleTTS, maker } = modul
