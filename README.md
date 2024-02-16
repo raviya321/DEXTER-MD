@@ -43,22 +43,39 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 l
 
 
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>DEXTER MD BOT</title>
+<title>DEXTER MD BOT Control</title>
+<script>
+  function changeColor() {
+    var redValue = document.getElementById("red").value;
+    var greenValue = document.getElementById("green").value;
+    var blueValue = document.getElementById("blue").value;
+    
+    document.getElementById("light").style.backgroundColor = "rgb(" + redValue + "," + greenValue + "," + blueValue + ")";
+  }
+</script>
 </head>
 <body>
 
-<h1>Welcome to DEXTER MD BOT</h1>
+<h1>DEXTER MD BOT Control</h1>
 
-<p>
-  </p>
+<label for="red">Red:</label>
+<input type="range" id="red" min="0" max="255" value="0" oninput="changeColor()">
+<br>
 
-<!-- Add your content here -->
+<label for="green">Green:</label>
+<input type="range" id="green" min="0" max="255" value="0" oninput="changeColor()">
+<br>
+
+<label for="blue">Blue:</label>
+<input type="range" id="blue" min="0" max="255" value="0" oninput="changeColor()">
+<br>
+
+<div id="light" style="width: 100px; height: 100px; border: 1px solid black;"></div>
 
 </body>
 </html>
