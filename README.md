@@ -55,7 +55,8 @@ l
 
 <h1>Welcome to DEXTER MD BOT</h1>
 
-<p>This is a sample HTML code for creating a webpage related to DEXTER MD BOT. You can customize this code according to your requirements.</p>
+<p>
+  </p>
 
 <!-- Add your content here -->
 
