@@ -1,8 +1,8 @@
 
 
-<h1 align="center">ꪶ𝗗𝗘𝗫𝗧𝗘𝗥----𝗕𝗢𝗧---𝗠𝗗ꫂ<br></h1>
+<h1 align="center">ꪶ𝗗𝗘𝗫𝗧𝗘𝗥----𝗕𝗢𝗧---𝗠𝗗---𝗥𝗖𝗗 𝗧𝗘𝗔𝗠ꫂ<br></h1>
 <p align="center">
-<img src="(https://ibb.co/J5K5vQF)" width="540" height="280" />
+<img src="https://i.ibb.co/ZJfb9Jy/20240216-121657.jpg" width="540" height="280" />
 </p>
 
 <p align="center">
