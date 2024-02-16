@@ -41,3 +41,13 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD8/)
 l
+
+
+
+public class DexterMdBOT {
+    public static void main(String[] args) {
+        System.out.println("Welcome to DEXTER MD BOT");
+        System.out.println("This is a sample Java code for creating a program related to DEXTER MD BOT.");
+        // Add your code here
+    }
+}
