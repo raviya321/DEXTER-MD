@@ -2,8 +2,8 @@ const chalk = require("chalk")
 const fs = require("fs")
 
 //aumto presence update
-global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoTyping = false //auto tying ඔනනම් true කියලා දන්න  (true to on, false to off)
+global.autoRecord = true //auto recording ඔනනම් true කියලාම තියන්න 😾 (true to on, false to off)
 global.autoblockmorroco = false //auto block 212 (true to on, false to off)
 global.autokickmorroco = false //auto kick 212 (true to on, false to off) 
 global.antispam = false //auto kick spammer (true to on, false to off)
@@ -21,28 +21,28 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['916909137213'] //ur owner number
-global.ownernomer = "916909137213" //ur owner number2
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['94789958225'] //ur owner number
+global.ownernomer = "94778493845" //ur owner number2
+global.ownername = "DEXTER 😾" //DONT EDITOR 😾
+global.ytname = "DEXTER MODZ" //ur yt chanel name
+global.socialm = "GitHub: 😾" //ur github or insta name
+global.location = "Sri lanka" //ur location
 
 //new
-global.botname = "Cheems Bot MD V8"
-global.ownernumber = '916909137213'
-global.ownername = '🦄드림 가이 Xeon'
-global.ownerNumber = ["916909137213@s.whatsapp.net"]
-global.ownerweb = "https://youtube.com/@DGXeon"
-global.websitex = "https://youtu.be/L_SIk59QeAU"
-global.wagc = "https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKH"
+global.botname = "DEXTER-MD"
+global.ownernumber = '94778493845,94789958225'
+global.ownername = 'DEXTER'
+global.ownerNumber = ["94778493845@s.whatsapp.net"]
+global.ownerweb = ""
+global.websitex = ""
+global.wagc = "https://chat.whatsapp.com/JXUE45NloA0DSUl549cmKL"
 global.themeemoji = '🪀'
-global.wm = "Xeon Bot Inc."
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
-global.packname = "Sticker By"
-global.author = "🦄드림 가이 Xeon\n\n"
-global.creator = "916909137213@s.whatsapp.net"
-global.prefa = ['','!','.','#','&']
+global.wm = "DEXTER"
+global.botscript = 'https://github.com' //script link
+global.packname = "Sticker DEXTER  By"
+global.author = "DEXTER \n\n"
+global.creator = "94778493845@s.whatsapp.net"
+global.dexter = ['']
 global.sessionName = 'session'
 global.hituet = 0
 
@@ -57,11 +57,11 @@ global.defaultpp = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
+global.flasmurf = '='
 
 //messages
 global.mess = {
-    success: 'Here you go!', 
+    success: 'Here you go DEXTER BOTS !', 
 }
 
 let file = require.resolve(__filename)
