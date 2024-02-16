@@ -56,22 +56,22 @@ l
     var blueValue = document.getElementById("blue").value;
     
     document.getElementById("light").style.backgroundColor = "rgb(" + redValue + "," + greenValue + "," + blueValue + ")";
-  }
+
 
 </head>
 <body>
 
-<h1>DEXTER MD BOT Control</h1>
+<h1>DEXTER MD BOT </h1>
 
-<label for="red">Red:</label>
+<label for="">Red:</label>
 <input type="range" id="red" min="0" max="255" value="0" oninput="changeColor()">
 <br>
 
-<label for="green">Green:</label>
+<label for="">Green:</label>
 <input type="range" id="green" min="0" max="255" value="0" oninput="changeColor()">
 <br>
 
-<label for="blue">Blue:</label>
+<label for="">Blue:</label>
 <input type="range" id="blue" min="0" max="255" value="0" oninput="changeColor()">
 <br>
 
