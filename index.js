@@ -3,7 +3,7 @@ const moment = require('moment-timezone');
 const { baileys, boom, chalk, fs, figlet, FileType, path, pino, process, PhoneNumber, axios, yargs, _ } = modul;
 const { Boom } = boom
 const {
-	default: XeonBotIncConnect,
+	default: DEXTER-MD CONNECT 😾,
 	BufferJSON,
 	initInMemoryKeyStore,
 	DisconnectReason,
@@ -53,7 +53,7 @@ nocache('../index.js', module => console.log(color('[ CHANGE ]', 'green'), color
 
 async function XeonBotIncBot() {
 	const {  saveCreds, state } = await useMultiFileAuthState(`./${sessionName}`)
-    	const XeonBotInc = XeonBotIncConnect({
+    	const XeonBotInc = DEXTER-MD  Connect({
         logger: pino({ level: 'silent' }),
         printQRInTerminal: true,
         browser: [`${botname}`,'Safari','3.0'],
@@ -111,11 +111,11 @@ try{
 			await delay(1999)
             console.log(chalk.yellow(`\n\n               ${chalk.bold.blue(`[ ${botname} ]`)}\n\n`))
             console.log(color(`< ================================================== >`, 'cyan'))
-	        console.log(color(`\n${themeemoji} YT CHANNEL: Xeon`,'magenta'))
-            console.log(color(`${themeemoji} GITHUB: DGXeon `,'magenta'))
-            console.log(color(`${themeemoji} INSTAGRAM: @unicorn_xeon `,'magenta'))
-            console.log(color(`${themeemoji} WA NUMBER: ${owner}`,'magenta'))
-            console.log(color(`${themeemoji} CREDIT: ${wm}\n`,'magenta'))
+	        console.log(color(`\n${themeemoji} YT CHANNEL: )
+            console.log(color(`${themeemoji} GITHUB: '))
+            console.log(color(`${themeemoji} INSTAGRAM: '))
+            console.log(color(`${themeemoji} WA NUMBER: $))
+            console.log(color(`${themeemoji} CREDIT:DEXTER'))
 		}
 	
 } catch (err) {
@@ -131,8 +131,9 @@ start('2',colors.bold.white('\n\nWaiting for New Messages..'))
 XeonBotInc.ev.on('creds.update', await saveCreds)
 
     // Anti Call
-    XeonBotInc.ev.on('call', async (XeonPapa) => {
-    let botNumber = await XeonBotInc.decodeJid(XeonBotInc.user.id)
+    XeonBotInc.ev.on('call', async (DEXTER-MD) => {
+    let botNumber = awaiT
+
     let XeonBotNum = db.settings[botNumber].anticall
     if (!XeonBotNum) return
     console.log(XeonPapa)
