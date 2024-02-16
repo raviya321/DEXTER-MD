@@ -2,7 +2,7 @@
 
 <h1 align="center">ꪶ𝗗𝗘𝗫𝗧𝗘𝗥----𝗕𝗢𝗧---𝗠𝗗 𝗩8ꫂ<br></h1>
 <p align="center">
-<img src="[https://i.ibb.co/cLtCXVm/cheemspic.jpg](https://ibb.co/J5K5vQF)" width="1122" height="1280" />
+<img src="[[https://i.ibb.co/cLtCXVm/cheemspic.jpg](https://i.ibb.co/FgKg5Vq/20240216-232712.jpg)](https://ibb.co/J5K5vQF)" width="1122" height="1280" />
 </p>
 
 <p align="center">
