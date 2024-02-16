@@ -57,7 +57,7 @@ l
     
     document.getElementById("light").style.backgroundColor = "rgb(" + redValue + "," + greenValue + "," + blueValue + ")";
   }
-</script>
+
 </head>
 <body>
 
