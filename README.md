@@ -44,10 +44,20 @@ l
 
 
 
-public class DexterMdBOT {
-    public static void main(String[] args) {
-        System.out.println("Welcome to DEXTER MD BOT");
-        System.out.println("This is a sample Java code for creating a program related to DEXTER MD BOT.");
-        // Add your code here
-    }
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DEXTER MD BOT</title>
+</head>
+<body>
+
+<h1>Welcome to DEXTER MD BOT</h1>
+
+<p>This is a sample HTML code for creating a webpage related to DEXTER MD BOT. You can customize this code according to your requirements.</p>
+
+<!-- Add your content here -->
+
+</body>
+</html>
