@@ -2,7 +2,7 @@ const chalk = require("chalk")
 const fs = require("fs")
 
 //aumto presence update
-global.autoTyping = false //auto tying ඔනනම් true කියලා දන්න  (true to on, false to off)
+global.autoTyping = true //auto tying ඔනනම් true කියලා දන්න  (true to on, false to off)
 global.autoRecord = true //auto recording ඔනනම් true කියලාම තියන්න 😾 (true to on, false to off)
 global.autoblockmorroco = false //auto block 212 (true to on, false to off)
 global.autokickmorroco = false //auto kick 212 (true to on, false to off) 
@@ -21,18 +21,18 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['94789958225'] //ur owner number
-global.ownernomer = "94778493845" //ur owner number2
+global.owner = ['94757660788'] //ur owner number
+global.ownernomer = "94757660788" //ur owner number2
 global.ownername = "DEXTER 😾" //DONT EDITOR 😾
-global.ytname = "DEXTER MODZ" //ur yt chanel name
+global.ytname = "MR LOKU RAVI_MD" //ur yt chanel name
 global.socialm = "GitHub: 😾" //ur github or insta name
 global.location = "Sri lanka" //ur location
 
 //new
-global.botname = "DEXTER-MD"
+global.botname = "MR LOKU RAVI_MD"
 global.ownernumber = '94778493845,94789958225'
 global.ownername = 'DEXTER'
-global.ownerNumber = ["94778493845@s.whatsapp.net"]
+global.ownerNumber = ["94757660788@s.whatsapp.net"]
 global.ownerweb = ""
 global.websitex = ""
 global.wagc = "https://chat.whatsapp.com/JXUE45NloA0DSUl549cmKL"
